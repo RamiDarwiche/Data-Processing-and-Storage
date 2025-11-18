@@ -2,19 +2,19 @@
 
 1. Create a python virtual environment
 
-```python
+```
 python -m venv .venv
 ```
 
 2.  Activate the virtual environment (command may vary dependent on python version)
 
-```python
+```
 source .venv/Scripts/Activate
 ```
 
 3. Run main.py
 
-```python
+```
 python main.py
 ```
 
